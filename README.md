@@ -70,7 +70,3 @@ python dividend_collector.py
 - Graphical interface for data visualization
 - Automatic calculation of indicators such as P/E, ROE, Dividend Yield
 - Alerts for ex-dividend dates
-
----
-
-Developed to facilitate data-driven analysis and investment decisions in the Brazilian stock market.
